@@ -1,0 +1,8 @@
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\bin\Debug\CalisanKayitSistemi.exe.config
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\bin\Debug\CalisanKayitSistemi.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\bin\Debug\CalisanKayitSistemi.pdb
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\obj\Debug\CalisanKayitSistemi.csproj.AssemblyReference.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\obj\Debug\CalisanKayitSistemi.csproj.SuggestedBindingRedirects.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\obj\Debug\CalisanKayitSistemi.csproj.CoreCompileInputs.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\obj\Debug\CalisanKayitSistemi.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\CalisanKayitSistemi\CalisanKayitSistemi\obj\Debug\CalisanKayitSistemi.pdb
